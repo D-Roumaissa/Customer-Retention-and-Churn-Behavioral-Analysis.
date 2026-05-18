@@ -1,10 +1,10 @@
-# Customer-Retention-and-Churn-Behavioral-Analysis-
+**Customer-Retention-and-Churn-Behavioral-Analysis-**
 
-## 🎯 Project Overview
+**Project Overview**
 
 This project is a high-end behavioral analytics tool designed to help Management and Client Service teams identify at-risk customers. By analyzing historical data from the **Telco Customer Churn dataset**, the AI identifies patterns—specifically comparing **Monthly** vs. **Yearly** membership types—to predict the likelihood of a customer canceling their subscription.
 
-## 🚀 Key Features
+**Key Features**
 
 * **Behavioral AI Engine:** Powered by a Random Forest Classifier to assess churn probability based on tenure, contract type, and monthly spend.
 * **Executive Dashboard:** A professional, clean "FinTech" interface built with Gradio.
@@ -16,7 +16,7 @@ This project is a high-end behavioral analytics tool designed to help Management
 
 * **Financial Impact Analysis:** Provides automated management recommendations and estimates annual revenue at risk.
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 * **Language:** Python 3.x
 * **Libraries:** `Pandas`, `NumPy`, `Scikit-Learn`
@@ -24,7 +24,7 @@ This project is a high-end behavioral analytics tool designed to help Management
 * **Front-End:** `Gradio`
 * **Environment:** Google Colab / Jupyter Notebooks
 
-## 📂 Dataset
+**📂 Dataset**
 
 The project utilizes the **WA_Fn-UseC_-Telco-Customer-Churn.csv** dataset. It includes customer metadata such as:
 
@@ -33,7 +33,7 @@ The project utilizes the **WA_Fn-UseC_-Telco-Customer-Churn.csv** dataset. It in
 * **Monthly Charges:** The amount charged to the customer monthly.
 * **Churn:** Whether the customer left within the last month.
 
-## ⚙️ Installation & Usage
+**⚙️ Installation & Usage**
 
 1. **Open Google Colab.**
 2. **Copy and paste the three cells** provided in the project:
@@ -44,7 +44,7 @@ The project utilizes the **WA_Fn-UseC_-Telco-Customer-Churn.csv** dataset. It in
 
 3. **Run the cells.** A public or local URL will be generated to access the decorative front-end.
 
-## 📈 Management Insights
+**📈 Management Insights**
 
 Based on the behavioral analysis:
 
